@@ -204,13 +204,11 @@ a:hover
     padding-bottom: 15px;
     grid-area: y;
 }
-
 .exemple1:hover 
 {
     background-color: lightgray;
     cursor: pointer;
 }
-
 .exemple1Texte
 {
     font-size: 1.8em;
